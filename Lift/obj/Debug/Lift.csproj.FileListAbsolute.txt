@@ -1,0 +1,12 @@
+c:\users\andriy\Documents\visual studio 2015\Projects\Lift\Lift\bin\Debug\Lift.exe.config
+c:\users\andriy\Documents\visual studio 2015\Projects\Lift\Lift\bin\Debug\Lift.exe
+c:\users\andriy\Documents\visual studio 2015\Projects\Lift\Lift\bin\Debug\Lift.pdb
+c:\users\andriy\Documents\visual studio 2015\Projects\Lift\Lift\obj\Debug\Lift.csprojResolveAssemblyReference.cache
+c:\users\andriy\Documents\visual studio 2015\Projects\Lift\Lift\obj\Debug\Lift.exe
+c:\users\andriy\Documents\visual studio 2015\Projects\Lift\Lift\obj\Debug\Lift.pdb
+C:\Users\Marichka\source\repos\Lift\Lift\bin\Debug\Lift.exe.config
+C:\Users\Marichka\source\repos\Lift\Lift\bin\Debug\Lift.exe
+C:\Users\Marichka\source\repos\Lift\Lift\bin\Debug\Lift.pdb
+C:\Users\Marichka\source\repos\Lift\Lift\obj\Debug\Lift.csprojResolveAssemblyReference.cache
+C:\Users\Marichka\source\repos\Lift\Lift\obj\Debug\Lift.exe
+C:\Users\Marichka\source\repos\Lift\Lift\obj\Debug\Lift.pdb
